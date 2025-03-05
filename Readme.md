@@ -106,7 +106,7 @@ Configure `<span>ModuleFederationPlugin</span>` in **Client1** and **Client2** s
 
 Modify the `<span>scripts</span>` section in each application’s `<span>package.json</span>`:
 
-#### **Host (**``******)**
+#### **Host**
 
 ```
 "scripts": {
@@ -115,7 +115,7 @@ Modify the `<span>scripts</span>` section in each application’s `<span>package
   }
 ```
 
-#### **Client1 (**``******)**
+#### **Client1**
 
 ```
 "scripts": {
@@ -124,7 +124,7 @@ Modify the `<span>scripts</span>` section in each application’s `<span>package
   }
 ```
 
-#### **Client2 (**``******)**
+#### **Client2**
 
 ```
 "scripts": {
